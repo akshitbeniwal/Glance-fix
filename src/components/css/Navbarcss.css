@@ -1,0 +1,145 @@
+.navigation_button {
+  margin: 0.25em;
+}
+
+.desktop-categoryLink,
+.desktop-categoryName {
+  display: block;
+  font-size: 14px;
+  text-decoration: none;
+}
+.desktop-categoryLink {
+  color: #282c3f;
+  line-height: 23px !important;
+  font-weight: 400;
+}
+.desktop-categoryLink:hover {
+  font-weight: 500;
+  color: #282c3f;
+}
+.desktop-oddColumnContent {
+  float: left;
+  display: block;
+  position: absolute;
+  height: 436px;
+  padding-top: 4px;
+}
+.desktop-navBlock {
+  display: block;
+  position: relative;
+  float: left;
+  width: 216px;
+  margin: 0;
+  padding: 0;
+}
+.desktop-navBlock > li {
+  padding-left: 25px;
+}
+.over-everything {
+  position: relative;
+
+  /* overflow: auto; */
+  /* Add vertical scrollbar */
+
+  z-index: 2;
+}
+/* .desktop-newPaneContent,
+.desktop-paneContent {
+  text-align: left;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  background-color: dimgrey;
+  -webkit-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+  -webkit-box-shadow: inset 0 0 8px rgba(0, 0, 0, 0.1);
+  box-shadow: inset 0 0 8px rgba(0, 0, 0, 0.1);
+  pointer-events: auto;
+}*/
+/* .desktop-paneContent {
+  width: 80px;
+  z-index: 9;
+} */
+.desktop-oddColumnContent {
+  float: left;
+  display: block;
+  position: relative;
+  height: 436px;
+  padding-top: 4px;
+}
+.desktop-evenColumnContent {
+  background-color: rgba(245, 245, 246, 0.4);
+  position: relative;
+}
+.desktop-categoryContainer {
+  opacity: 1;
+  background-color: dimgrey;
+
+  width: max-content;
+
+  left: 0;
+  right: 0;
+  position: absolute;
+  margin: 0 auto;
+  /* padding: 0 10px 10px 15px; */
+  -webkit-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+.desktop-navBlock {
+  display: block;
+  position: relative;
+  float: left;
+  width: 216px;
+  margin: 0;
+  padding: 0;
+}
+.desktop-navBlock > li {
+  padding-left: 25px;
+}
+.desktop-tab {
+  margin: 0;
+}
+.desktop-categoryName {
+  text-transform: capitalize;
+  color: #3e4152;
+  padding: 12px 0 2px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  /* overflow: hidden; */
+  line-height: 25px;
+  font-weight: 500;
+}
+.desktop-categoryLink,
+.desktop-categoryName {
+  display: block;
+  font-size: 14px;
+  text-decoration: none;
+}
+.desktop-categoryLink {
+  color: #282c3f;
+  line-height: 23px !important;
+  font-weight: 400;
+}
+.desktop-categoryLink:hover {
+  font-weight: 500;
+  color: #282c3f;
+}
+.popover-body {
+  background-color: dimgrey;
+}
+.popover-arrow {
+  display: none !important;
+}
+.container_div {
+  padding: 10px;
+}
+
+.one {
+  width: 30%;
+  float: left;
+}
+
+.two {
+  width: 70%;
+  float: left;
+}
