@@ -39,14 +39,14 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Screenshots of user interface
-homepage<img width="1437" alt="Screenshot 2022-12-17 at 1 44 08 AM" src="https://user-images.githubusercontent.com/57455543/208182091-ecfd1141-e9db-436c-b21d-bb0c93d988dd.png">
+### Screenshots of user interface
+##homepage<img width="1437" alt="Screenshot 2022-12-17 at 1 44 08 AM" src="https://user-images.githubusercontent.com/57455543/208182091-ecfd1141-e9db-436c-b21d-bb0c93d988dd.png">
 
-Sign In<img width="1437" alt="Screenshot 2022-12-17 at 1 44 17 AM" src="https://user-images.githubusercontent.com/57455543/208182105-fe24e19c-8a10-46ba-9c0d-540ba77b2e31.png">
+##Sign In<img width="1437" alt="Screenshot 2022-12-17 at 1 44 17 AM" src="https://user-images.githubusercontent.com/57455543/208182105-fe24e19c-8a10-46ba-9c0d-540ba77b2e31.png">
 
-Dropdown selection Menu<img width="1437" alt="Screenshot 2022-12-17 at 1 44 43 AM" src="https://user-images.githubusercontent.com/57455543/208182138-b036905a-06a8-4242-9663-4b7272b94ef0.png">
+##Dropdown selection Menu<img width="1437" alt="Screenshot 2022-12-17 at 1 44 43 AM" src="https://user-images.githubusercontent.com/57455543/208182138-b036905a-06a8-4242-9663-4b7272b94ef0.png">
 
-Live link:- https://glancefix.com
+###Live link:- https://glancefix.com
 
 
 
